@@ -42,6 +42,4 @@ Frontend:
 
 The backend requires the environment variables mentioned in `.env.example`.
 
-## Acknowledgement
 
-This project is based on an existing open-source implementation and has been adapted for this repository.
